@@ -1,0 +1,15 @@
+/*!
+	Write Custom CSS here
+*/
+
+h1 {
+	font-family: Georgia;
+}
+
+h2 {
+	color: orange;
+}
+
+body {
+	padding-top: 40px;
+}
